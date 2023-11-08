@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.shoppinglist'
+    namespace 'com.semyon.shoppinglist'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.shoppinglist"
+        applicationId "com.semyon.shoppinglist"
         minSdk 24
         targetSdk 33
         versionCode 1

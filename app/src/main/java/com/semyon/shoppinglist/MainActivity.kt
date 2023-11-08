@@ -1,4 +1,4 @@
-package com.example.shoppinglist
+package com.semyon.shoppinglist
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
