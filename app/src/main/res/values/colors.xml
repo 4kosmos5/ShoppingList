@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorText">@android:color/white</color>
+    <color name="colorRipple">@color/colorOnBackgroundVariant</color>
+
+    <color name="colorGrayImage">#373737</color>
+    <color name="colorGreen">#00A539</color>
+
+    <color name="colorOverPay">#388e3c</color>
+    <color name="colorDebt">#d32f2f</color>
+
+    <color name="divider">#B6B6B6</color>
+
+    <color name="colorPaymentBlue">#074E8F</color>
+    <color name="colorPaymentRed">#B01515</color>
+    <color name="colorPaymentGreen">#00BA82</color>
+
+    <color name="colorPrimary">#00A539</color>
+    <color name="colorPrimaryVariant">#E8F6EA</color>
+    <color name="colorSecondary">#009E90</color>
+    <color name="colorSecondaryVariant">@color/colorSecondary</color>
+
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorError">#26E53935</color>
+    <color name="colorBackgroundSuccess">#E8F6EA</color>
+
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorOnBackground">#000000</color>
+    <color name="colorOnBackgroundVariant">#0A000000</color> <!-- colorGrayLight -->
+    <color name="colorOnSurface">#99000000</color>         <!-- colorGrayDark -->
+    <color name="colorOnSurfaceVariant">#9E9E9E</color>    <!-- colorGray -->
+    <color name="colorOnError">#E53935</color>
+    <color name="colorSwipeLoader">@color/colorPrimary</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhiteOpaty">#33E3E3E3</color>
+
+    <color name="colorTextOnGradientButton">#FFFFFF</color>
+    <color name="colorTextBadgeBottom">@color/colorTextOnGradientButton</color>
+    <color name="light_blue_50">#FFE1F5FE</color>
+    <color name="light_blue_200">#FF81D4FA</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+
 </resources>
