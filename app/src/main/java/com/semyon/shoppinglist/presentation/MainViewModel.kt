@@ -1,7 +1,5 @@
 package com.semyon.shoppinglist.presentation
 
-import androidx.lifecycle.LiveData
-import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.semyon.shoppinglist.data.ShopListRepositoryImpl
 import com.semyon.shoppinglist.domain.DeleteShopItemUseCase
